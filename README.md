@@ -28,11 +28,6 @@ Stremio allows, using its [Add-ons system](https://github.com/Stremio/stremio-ad
 	* `msg`: messages: actions, events
 	* `models`: all stateful models, such as `Context` (handling user authentication, add-ons), `Library`, `CatalogFiltered`, etc.
 
-
-Also see:
-* https://github.com/stremio/stremio-players
-* https://github.com/Stremio/labs/issues/20
-
 ```
 cargo clippy
 cargo fmt
